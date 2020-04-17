@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "734424358586",
+    "firebase_url": "https://gbs-test-project.firebaseio.com",
+    "project_id": "gbs-test-project",
+    "storage_bucket": "gbs-test-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734424358586:ios:87a064771fd7200a0eac83",
+        "android_client_info": {
+          "package_name": "com.gamebreaking.endlessrunnersamplegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734424358586-b1gcqv0htaq1l1c2dcnib8i2q5sjmtqq.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBviC6WksS1wXZXmbWa6UaNziV6SUhJUtM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
